@@ -26,12 +26,12 @@ I had worked with and have production experience in:
 machine learning, data engineering),  
 - the modern trend in devops and cloud native solutions (kubernetes, helm),
 
-and always ready to venture into the research world beyond the available tools to make things work better.
+and always ready to venture into research beyond the available tools to make things work better.
 
 ### 🧑🏽‍🎨 My Interest
 
-I am keen to learning new things and advancing my skills and experience, not just in technical world
-but also growing professionally as a team player.
+I am keen to learning new things and advancing my skills and experience, not just in technical domain
+but also to growing professionally as a team player.
 
 The thing that currently interest me the most is Data, distributed systems, democratizing data through tools, 
 and cloud native solutions. This might sound controversial, but I believe data is above Machine Learning and AI, 
