@@ -26,7 +26,7 @@ I had worked with and have production experience in:
 machine learning, data engineering),  
 - the modern trend in devops and cloud native solutions (kubernetes, helm),
 
-and not afraid to venture further to the research world beyond the available tools to make things work better.
+and always ready to venture into the research world beyond the available tools to make things work better.
 
 ### 🧑🏽‍🎨 My Interest
 
