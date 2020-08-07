@@ -32,7 +32,7 @@ and always ready to venture into research beyond the available tools to make thi
 ### 🧑🏽‍🎨 My Interests
 
 I am excited to learning new things and advancing my skills and experience, not just in technical domain
-but also to growing professionally, and becoming an excellent team player.
+but also to growing professionally and being an excellent team player.
 
 The thing that currently interest me the most is Data, distributed systems, democratizing data through tools, 
 and cloud native solutions. This might sound controversial, but I believe data is above Machine Learning and AI, 
