@@ -36,6 +36,6 @@ but also to growing professionally and being an excellent team player.
 
 The thing that currently interest me the most is Data, distributed systems, democratizing data through tools, 
 and cloud native solutions. This might sound controversial, but I believe data is above Machine Learning and AI, 
-because if you have no good data you can't build good models. Models have little value unless they're in production 
-and have users benefitting from them. So I'm very interested in developing and researching how we can make the tools
-that enable human to benefits from data easily and effectively.
+because if you have no good data you can't build good models. Models have little value unless they're reproducible,
+in production, and have users benefitting from them. So I'm very interested in developing and researching how we can 
+develop efficient tools that enable human to benefits from data easily and effectively.
