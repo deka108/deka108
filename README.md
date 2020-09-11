@@ -1,4 +1,4 @@
-### "Hello, world!" 👋🏽 
+### ```echo "Hello, world!" 👋🏽 ```
 
 <!--
 **deka108/deka108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,16 +18,15 @@ Here are some ideas to get you started:
 ### 👤 Who Am I?
 I am Deka, it means 10 in greek language. You might be familiar with my name if you know the metric system.
 
-I am a lifelong learner and software engineer. 
+> I am a lifelong learner and software engineer. I am passionate about developing software tools that make people lives' easier.
 
 I had worked with and have production experience in:
-- software engineering (backend, frontend, fullstack),
-- the data science-y and engineering world (databases, distributed data systems, data science, data analytics, 
-machine learning, data engineering),  
-- the modern trends in devops and cloud native solutions (kubernetes, helm),
-- the cloud,
+- software engineering (backend, frontend, fullstack, shell scripting, Linux, web development, app development, testing pyramid, etc.),
+- the data science-y and engineering world (databases, distributed data systems, data science, data analytics, machine learning, deep learning, data engineering, artificial intelligence, data wrangling, data viz, etc.),
+- the modern trends in devops and cloud native solutions (CI/CD pipelines, docker, kubernetes, helm),
+- the cloud (AWS, GCP, net in general),
 
-and always ready to venture into research beyond the available tools to make things work better.
+and always ready to venture into research beyond the available tools to make things work better. I believe there is always an opportunity to learn and improve, acquiring new skills and making difficult things easy all boils down to our efforts.
 
 ### 🧑🏽‍🎨 My Interests
 
